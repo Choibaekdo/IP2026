@@ -12,3 +12,9 @@ OpenCV-Python Tutorials
 <a href="https://youtu.be/-Y51DsAIhuA" target="_blank">
   <img src="https://img.youtube.com/vi/-Y51DsAIhuA/maxresdefault.jpg" width="400px">
 </a>
+
+## homework3
+
+<a href="https://youtu.be/-Y51DsAIhuA" target="_blank">
+  <img src="homework3.png" width="400px">
+</a>
