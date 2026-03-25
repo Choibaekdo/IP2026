@@ -15,4 +15,4 @@ OpenCV-Python Tutorials
 
 ## homework3
 
-[!image](image/homework3.png)
+![image](image/homework3.png)
