@@ -15,6 +15,4 @@ OpenCV-Python Tutorials
 
 ## homework3
 
-<a href="https://youtu.be/-Y51DsAIhuA" target="_blank">
-  <img src="homework3.png" width="400px">
-</a>
+[!image](/image.homework3)
